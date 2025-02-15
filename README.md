@@ -1,7 +1,6 @@
-# CS2610_Pipeline_Processor
+# Pipeline_Processor
 ## Directory structure
 ```
-CS22B087-CS22B028/
 ├── input/
 │   ├── ICache.txt
 │   ├── DCache.txt
